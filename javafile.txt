@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-hello this is new file from master
-=======
 javafile data  
 data added in new feature
 added some code fix
->>>>>>> 656c3ab (some code fix)
