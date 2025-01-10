@@ -1,8 +1,6 @@
 javafile data  
 data added in new feature
 added some code fix
-<<<<<<< HEAD
-=======
 some modification done here
 wrong code
->>>>>>> newfeature2
+some changes done
